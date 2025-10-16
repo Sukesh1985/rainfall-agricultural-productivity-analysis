@@ -54,10 +54,14 @@ This project analyzes 50+ years of agricultural data to understand how rainfall 
 
 ## 📈 Data Sources
 
-[Add your data sources here]
-- Rainfall data: [Source]
-- Agricultural yield data: [Source]
-- State boundaries: [Source]
+- Rainfall data:
+<img width="1281" height="730" alt="Overview Page" src="https://github.com/user-attachments/assets/e8d32312-9052-447a-a47f-eebff0cd2322" />
+
+- Agricultural yield data:
+<img width="1288" height="746" alt="Rainfall Analytics   Crop Correlation" src="https://github.com/user-attachments/assets/36c83b87-4424-47ab-8d4d-755dae3dc9d1" />
+
+- State boundaries: 
+<img width="1286" height="747" alt="State Performance Explorer" src="https://github.com/user-attachments/assets/7d6efc7b-c40f-4bc2-9c8e-d1be07c407b1" />
 
 ## 🤝 Contributing
 
