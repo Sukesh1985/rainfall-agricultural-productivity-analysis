@@ -67,9 +67,9 @@ This project analyzes 50+ years of agricultural data to understand how rainfall 
 
 Contributions, issues, and feature requests are welcome!
 
-## 📝 License
+## 📄 License
 
-This project is available for educational and portfolio purposes.
+This project is open source and available under the MIT License.
 
 ## 👤 Author
 
